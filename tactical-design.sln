@@ -1,0 +1,123 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{C298BE86-3E6E-42B9-B270-FF4694702235}"
+	ProjectSection(SolutionItems) = preProject
+		docs\1-tactical-design-patternsdot-net-m1-slides.pdf = docs\1-tactical-design-patternsdot-net-m1-slides.pdf
+		docs\10-tactical-design-patternsdot-net-m10-slides.pdf = docs\10-tactical-design-patternsdot-net-m10-slides.pdf
+		docs\2-tactical-design-patternsdot-net-m2-slides.pdf = docs\2-tactical-design-patternsdot-net-m2-slides.pdf
+		docs\3-tactical-design-patternsdot-net-m3-slides.pdf = docs\3-tactical-design-patternsdot-net-m3-slides.pdf
+		docs\4-tactical-design-patternsdot-net-m4-slides.pdf = docs\4-tactical-design-patternsdot-net-m4-slides.pdf
+		docs\5-tactical-design-patternsdot-net-m5-slides.pdf = docs\5-tactical-design-patternsdot-net-m5-slides.pdf
+		docs\6-tactical-design-patternsdot-net-m6-slides.pdf = docs\6-tactical-design-patternsdot-net-m6-slides.pdf
+		docs\7-tactical-design-patternsdot-net-m7-slides.pdf = docs\7-tactical-design-patternsdot-net-m7-slides.pdf
+		docs\8-tactical-design-patternsdot-net-m8-slides.pdf = docs\8-tactical-design-patternsdot-net-m8-slides.pdf
+		docs\9-tactical-design-patternsdot-net-m9-slides.pdf = docs\9-tactical-design-patternsdot-net-m9-slides.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2", "2", "{FCDD7AB3-9E02-434E-AA28-2301BC18BEAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3", "3", "{8BCEFFAC-2200-4084-85B3-E69DD7B12FF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4", "4", "{2DA8F844-6439-4EDD-871D-5E2DC02B8719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5", "5", "{4C7D8483-6F05-4A14-8B9E-C4C55B772179}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6", "6", "{4D58FCC7-103E-4509-8604-CA6C53366FCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7", "7", "{D4CDB520-0446-4E6E-BD2E-C4C7DB9AEC85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8", "8", "{BDD3E40F-23FF-4B0F-84E8-E2E64E5E23CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9", "9", "{A1A0A465-45C8-45E2-AEBD-87CFE7E8311C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDemo", "2-tactical-design-patternsdot-net-m2-exercise-files\AbstractFactoryDemo\AbstractFactoryDemo.csproj", "{EBEC0A09-B0B2-409B-9F90-D12414CC3684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerFactoryDemo", "3-tactical-design-patternsdot-net-m3-exercise-files\ControllerFactoryDemo\ControllerFactoryDemo.csproj", "{62EE3B15-AAB3-457E-9370-2DEBDB2902C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "final", "final", "{5B6554D7-497D-4187-830E-13FBAE9C59DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarianceDemo", "4-tactical-design-patternsdot-net-m4-exercise-files\01_VarianceDemo_Generic\VarianceDemo\VarianceDemo.csproj", "{8C354D80-35F9-4D62-A3FC-225C6CC790AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarianceDemo", "4-tactical-design-patternsdot-net-m4-exercise-files\02_VarianceDemo_Final\VarianceDemo\VarianceDemo.csproj", "{1EE6A051-27DB-417A-A291-F03005CEB282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstitutionDemo", "5-tactical-design-patternsdot-net-m5-exercise-files\SubstitutionDemo\SubstitutionDemo.csproj", "{1A5CDBF0-483B-42E2-80AC-6E5D4B89AC68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDemo", "6-tactical-design-patternsdot-net-m6-exercise-files\BuilderDemo\BuilderDemo.csproj", "{157E1AF2-EA00-47DF-B2A5-BB38663546D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDemo", "7-tactical-design-patternsdot-net-m7-exercise-files\BuilderDemo\BuilderDemo.csproj", "{61B3F845-ABC5-47BD-B25D-9152A2C250D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodDemo", "8-tactical-design-patternsdot-net-m8-exercise-files\FactoryMethodDemo\FactoryMethodDemo.csproj", "{806048BE-0ACE-4835-988A-CFC051568815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationDemo", "9-tactical-design-patternsdot-net-m9-exercise-files\SpecificationDemo\SpecificationDemo.csproj", "{AB4ACECD-3007-4D76-9985-E0985AAE8C8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10", "10", "{224A24FF-262F-45AC-A9FE-62BCA5F7B28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationDemo", "10-tactical-design-patternsdot-net-m10-exercise-files\SpecificationDemo\SpecificationDemo.csproj", "{3B3BB12F-2592-46F2-B989-EB81DDCF72B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEC0A09-B0B2-409B-9F90-D12414CC3684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEC0A09-B0B2-409B-9F90-D12414CC3684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEC0A09-B0B2-409B-9F90-D12414CC3684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEC0A09-B0B2-409B-9F90-D12414CC3684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62EE3B15-AAB3-457E-9370-2DEBDB2902C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EE3B15-AAB3-457E-9370-2DEBDB2902C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EE3B15-AAB3-457E-9370-2DEBDB2902C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EE3B15-AAB3-457E-9370-2DEBDB2902C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C354D80-35F9-4D62-A3FC-225C6CC790AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C354D80-35F9-4D62-A3FC-225C6CC790AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C354D80-35F9-4D62-A3FC-225C6CC790AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C354D80-35F9-4D62-A3FC-225C6CC790AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE6A051-27DB-417A-A291-F03005CEB282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE6A051-27DB-417A-A291-F03005CEB282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE6A051-27DB-417A-A291-F03005CEB282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE6A051-27DB-417A-A291-F03005CEB282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5CDBF0-483B-42E2-80AC-6E5D4B89AC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5CDBF0-483B-42E2-80AC-6E5D4B89AC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5CDBF0-483B-42E2-80AC-6E5D4B89AC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5CDBF0-483B-42E2-80AC-6E5D4B89AC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157E1AF2-EA00-47DF-B2A5-BB38663546D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157E1AF2-EA00-47DF-B2A5-BB38663546D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157E1AF2-EA00-47DF-B2A5-BB38663546D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157E1AF2-EA00-47DF-B2A5-BB38663546D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B3F845-ABC5-47BD-B25D-9152A2C250D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B3F845-ABC5-47BD-B25D-9152A2C250D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B3F845-ABC5-47BD-B25D-9152A2C250D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B3F845-ABC5-47BD-B25D-9152A2C250D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806048BE-0ACE-4835-988A-CFC051568815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806048BE-0ACE-4835-988A-CFC051568815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806048BE-0ACE-4835-988A-CFC051568815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806048BE-0ACE-4835-988A-CFC051568815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB4ACECD-3007-4D76-9985-E0985AAE8C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4ACECD-3007-4D76-9985-E0985AAE8C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4ACECD-3007-4D76-9985-E0985AAE8C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4ACECD-3007-4D76-9985-E0985AAE8C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3BB12F-2592-46F2-B989-EB81DDCF72B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3BB12F-2592-46F2-B989-EB81DDCF72B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3BB12F-2592-46F2-B989-EB81DDCF72B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3BB12F-2592-46F2-B989-EB81DDCF72B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBEC0A09-B0B2-409B-9F90-D12414CC3684} = {FCDD7AB3-9E02-434E-AA28-2301BC18BEAE}
+		{62EE3B15-AAB3-457E-9370-2DEBDB2902C1} = {8BCEFFAC-2200-4084-85B3-E69DD7B12FF4}
+		{5B6554D7-497D-4187-830E-13FBAE9C59DC} = {2DA8F844-6439-4EDD-871D-5E2DC02B8719}
+		{8C354D80-35F9-4D62-A3FC-225C6CC790AA} = {2DA8F844-6439-4EDD-871D-5E2DC02B8719}
+		{1EE6A051-27DB-417A-A291-F03005CEB282} = {5B6554D7-497D-4187-830E-13FBAE9C59DC}
+		{1A5CDBF0-483B-42E2-80AC-6E5D4B89AC68} = {4C7D8483-6F05-4A14-8B9E-C4C55B772179}
+		{157E1AF2-EA00-47DF-B2A5-BB38663546D9} = {4D58FCC7-103E-4509-8604-CA6C53366FCB}
+		{61B3F845-ABC5-47BD-B25D-9152A2C250D6} = {D4CDB520-0446-4E6E-BD2E-C4C7DB9AEC85}
+		{806048BE-0ACE-4835-988A-CFC051568815} = {BDD3E40F-23FF-4B0F-84E8-E2E64E5E23CB}
+		{AB4ACECD-3007-4D76-9985-E0985AAE8C8B} = {A1A0A465-45C8-45E2-AEBD-87CFE7E8311C}
+		{3B3BB12F-2592-46F2-B989-EB81DDCF72B1} = {224A24FF-262F-45AC-A9FE-62BCA5F7B28D}
+	EndGlobalSection
+EndGlobal
